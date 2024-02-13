@@ -43,4 +43,5 @@ If you encounter issues with your Tiva C board and the debugger cannot find it, 
 
 14. Congratulations, you have successfully reset your Tiva C board!
 
+For more detailed instructions check out this YouTube tutorial:(https://www.youtube.com/watch?v=3fw_C6ut1Js).
 Note: This repository is provided as-is and does not constitute official TI specifications. Use it at your own risk.
